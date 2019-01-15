@@ -1,0 +1,185 @@
+/*login start*/
+.wrapper{
+	background-color: #3f5c9a;
+	padding: 10px 0;
+	overflow: hidden;
+	width: 100%;
+}
+.name{
+	width: 54%;
+	float: left;
+}
+.name a img{
+	margin-left: 200px;
+	margin-top: 10px;
+}
+.box{
+	width:46%;
+	overflow: hidden;
+	float: right;
+}
+.email{
+	width: 30%;
+	float: left;
+}
+.email span,.password span{
+	color: white;
+	margin-right: 15px;
+}
+.email input,.password input{
+	border: none;
+	border: 1px solid black;
+	height: 20px;
+}
+.password{
+	width: 30%;
+	float: left;
+}
+.password a{
+	color:#9cb4d8;
+	text-decoration: none; 
+}
+.submit{
+	margin-top: 3%;
+	width: 30%;
+	float: left;
+}
+.submit button{
+	background-color: #4267b2;
+	border: none;
+	color: white;
+	font-size: 13px;
+	font-weight: bold;
+	border: 1px solid #29487d;
+	height: 25px;
+}
+/*login end*/
+/*signup start*/
+.wrapper2{
+	background-color: #e0e3ef;
+	overflow: hidden;
+}
+.pic{
+	width: 35%;
+	margin-top: 20px;
+	margin-left: 200px;
+	float: left;
+}
+.pic p{
+	color: #0e385f;
+	font-size: 20px;
+	font-family:arial;
+	font-weight: bold;
+}
+.reg{
+	width:46%;
+	float: right;
+}
+
+.reg h1{
+	font-size: 35px;
+	font-family: arial;
+	color: #333333;
+}
+.breaf{
+	align-content: top;
+	font-size: 20px;
+	font-family: arial;
+	color: #322129;
+    padding-bottom: 12px;
+}
+
+.reg input{
+	font-size: 18px;
+	border: 1px solid #bdc7d8;
+	border-color: #bdc7d8;
+    border-radius: 5px;
+    padding: 8px 10px;
+    background: white;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.fname,.sname{
+	width:190px;
+}
+.sname{
+	margin-left: 5px;
+}
+.numemail,.pass{
+	width: 410px;
+}
+
+#bday{
+	color: #1d2129;
+	font-size: 20px;
+	font-family: arial;
+}
+.reg select{
+	height: 30px;
+	border: 1px solid #bdc7d8;
+    background: white;
+    outline:none;
+    margin: 0;
+}
+
+.reg a{
+	text-decoration: none;
+	font-size: 13px;
+	color: #3677bd;
+}
+#bdaylink{
+	display: inline;
+	margin-left: 10px;
+	max-width: 150px;
+}
+
+.gender{
+	margin-top: 10px;
+	color: #1d2129;
+	font-size: 20px;
+	font-family: arial;
+}
+
+#footer{
+	font-size: 12px;
+	color: #777777;
+	max-width: 320px;
+}
+
+.signin{
+	height: 38px;
+    width: 180px;
+    border-radius:5px;
+    text-rendering: auto;
+    color: #ffffff;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: center;
+    margin: 0em;
+    font-family: Calibri;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #5f9b4c;
+    border: 1px solid #3b6e22;
+    cursor:pointer;
+}
+
+.signin:hover{
+	background-color: #67a052;
+}
+
+#createinfo{
+	margin-top: 40px;
+	color:#666666;
+	font-size: 14px;
+}
+#createinfo a{
+	font-size: 14px;
+	font-family: arial;
+}
+/*signup end*/
