@@ -1,1 +1,1 @@
-https://samithpantho.github.io/Facebook/.
+https://samithpantho.github.io/Facebook/
